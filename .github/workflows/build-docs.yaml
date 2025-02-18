@@ -6,20 +6,13 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
   id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  pages: write
 
 env:
   INSTANCE: 'Writerside/sei'
   ARTIFACT: 'webHelpSEI2-all.zip'
-  DOCKER_VERSION: '233.14938'
+  DOCKER_VERSION: '241.18775'
 
 jobs:
   build:
@@ -36,7 +29,7 @@ jobs:
           docker-version: ${{ env.DOCKER_VERSION }}
 
       - name: Save artifact with build results
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: docs
           path: |
@@ -48,7 +41,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
           name: docs
           path: artifacts
@@ -65,7 +58,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
           name: docs
 

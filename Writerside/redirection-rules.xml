@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1f976761">
+        <description>Created after removal of "Template Specs" from Software Engineer, Infrastructure</description>
+        <accepts>Template-Specs.html</accepts>
+    </rule>
+    <rule id="51d1526a">
+        <description>Created after removal of "Continous Integration" from Software Engineer, Infrastructure
+        </description>
+        <accepts>Continous-Integration.html</accepts>
+    </rule>
+    <rule id="6f247950">
+        <description>Created after removal of "IAC Terraform" from Software Engineer, Infrastructure</description>
+        <accepts>IAC-Terraform.html</accepts>
+    </rule>
+    <rule id="2a06967a">
+        <description>Created after removal of "CICD Pipeline" from Software Engineer, Infrastructure</description>
+        <accepts>CICD-Pipeline.html</accepts>
+    </rule>
+    <rule id="7c13696a">
+        <description>Created after removal of "Programming" from Software Engineer, Infrastructure</description>
+        <accepts>Programming.html</accepts>
+    </rule>
+</rules>

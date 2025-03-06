@@ -1,9 +1,8 @@
 # Resume
-## Cloud Infrastructure Engineer
-
+## Site Reliability Engineer
 
 ### Profile
-I manage Azure environments with a Linux tech stack. I am a Cloud Engineer with 5+ years experience in enterprise security software, IT automation, network security, and cloud services. Searching for an opportunity to safeguard critical functions, as a dedicated problem solver. I am passionate about functional programming and thinking outside the box.
+I manage Azure environments with a Linux tech stack. I am a Site Reliability Engineer with 5+ years experience in enterprise security software, IT automation, network security, and cloud services. Searching for an opportunity to safeguard critical functions, as a dedicated problem solver. I am passionate about functional programming and thinking outside the box.
 
 ### Skills
 
@@ -13,18 +12,12 @@ Build and deploy Containers and Virtual Machines in the Cloud.
 #### Network Admin
 Configure Network Routers and Firewalls. Create SDN's (Software Defined Networks)
 
-#### Security and Backups
-Deploy backup solutions, disaster recovery, RBAC, Azure Sentinel, and Azure AD Administration
+#### Security 
+Deploy disaster recovery, RBAC, SIEM, and Entra Administration, FedRAMP Compliance
 
 ### Technical Skills
 
-- CKA
-- CKAD
-- CKS
-- KCNA
-- KCSA
-- AZ-305
-- Google Data Engineer
+- CKA, CKAD, CKS, KCNA, KCSA, AZ-305, Google Data Engineer
 
 ### Experience
 

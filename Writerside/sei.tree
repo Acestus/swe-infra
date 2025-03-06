@@ -7,6 +7,7 @@
                  start-page="intro.md">
 
     <toc-element topic="intro.md"/>
+    <toc-element topic="Resume.md"/>
     <toc-element topic="Portfolio.md">
         <toc-element topic="Cost-Optimization.md"/>
         <toc-element topic="Site-Reliability.md"/>

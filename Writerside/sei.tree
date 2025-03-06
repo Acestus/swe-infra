@@ -4,10 +4,10 @@
 
 <instance-profile id="sei"
                  name="Software Engineer, Infrastructure"
-                 start-page="intro.md">
+                 start-page="Resume.md">
 
-    <toc-element topic="intro.md"/>
     <toc-element topic="Resume.md"/>
+    <toc-element topic="intro.md"/>
     <toc-element topic="Portfolio.md">
         <toc-element topic="Cost-Optimization.md"/>
         <toc-element topic="Site-Reliability.md"/>

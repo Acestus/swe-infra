@@ -6,5 +6,5 @@ I can set up budgets and alerts to notify when spending exceeds a certain thresh
 I review Azure Advisor to get recommendations on how to optimize costs.
 I configure Azure Policy to enforce policies that help control costs.
 
-
-<video src="https://vimeo.com/123456788"/>
+[Cost Optimization](https://vimeo.com/1076187145?share=copy)
+<video src="https://vimeo.com/1076187145"/>

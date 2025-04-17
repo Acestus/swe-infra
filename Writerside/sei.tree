@@ -8,9 +8,7 @@
 
     <toc-element topic="Resume.md"/>
     <toc-element topic="intro.md"/>
-    <toc-element topic="Portfolio.md">
-        <toc-element topic="Cost-Optimization.md"/>
-        <toc-element topic="Infrastructure-As-Code.md"/>
-        <toc-element topic="Continous-Integration.md"/>
-    </toc-element>
+    <toc-element topic="Cost-Optimization.md"/>
+    <toc-element topic="Infrastructure-As-Code.md"/>
+    <toc-element topic="Continous-Integration.md"/>
 </instance-profile>

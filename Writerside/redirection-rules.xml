@@ -63,4 +63,8 @@
         <description>Created after removal of "Incident Response" from Software Engineer, Infrastructure</description>
         <accepts>Incident-Response.html</accepts>
     </rule>
+    <rule id="2715cfc6">
+        <description>Created after removal of "Portfolio" from Software Engineer, Infrastructure</description>
+        <accepts>Portfolio.html</accepts>
+    </rule>
 </rules>

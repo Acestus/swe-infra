@@ -12,13 +12,5 @@
         <toc-element topic="Cost-Optimization.md"/>
         <toc-element topic="Infrastructure-As-Code.md"/>
         <toc-element topic="Continous-Integration.md"/>
-        <toc-element topic="Site-Reliability.md"/>
-        <toc-element topic="Platform-Engineering.md"/>
-        <toc-element topic="Code-Reviews.md"/>
-        <toc-element topic="Infrastructure-Migration.md"/>
-        <toc-element topic="Resource-Naming.md"/>
-        <toc-element topic="Cloud-Resource-Hardening.md"/>
-        <toc-element topic="Incident-Response.md"/>
-        <toc-element topic="Double-Entry-Accounting.md"/>
     </toc-element>
 </instance-profile>

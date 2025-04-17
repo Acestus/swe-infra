@@ -27,4 +27,40 @@
         <description>Created after removal of "Programming" from Software Engineer, Infrastructure</description>
         <accepts>Programming.html</accepts>
     </rule>
+    <rule id="24a6cc7f">
+        <description>Created after removal of "Double Entry Accounting" from Software Engineer, Infrastructure
+        </description>
+        <accepts>Double-Entry-Accounting.html</accepts>
+    </rule>
+    <rule id="40bc2f2">
+        <description>Created after removal of "Cloud Resource Hardening" from Software Engineer, Infrastructure
+        </description>
+        <accepts>Cloud-Resource-Hardening.html</accepts>
+    </rule>
+    <rule id="7a205161">
+        <description>Created after removal of "Resource Naming" from Software Engineer, Infrastructure</description>
+        <accepts>Resource-Naming.html</accepts>
+    </rule>
+    <rule id="44155566">
+        <description>Created after removal of "Infrastructure Migration" from Software Engineer, Infrastructure
+        </description>
+        <accepts>Infrastructure-Migration.html</accepts>
+    </rule>
+    <rule id="164e0434">
+        <description>Created after removal of "Platform Engineering" from Software Engineer, Infrastructure
+        </description>
+        <accepts>Platform-Engineering.html</accepts>
+    </rule>
+    <rule id="7c52483d">
+        <description>Created after removal of "Site Reliability" from Software Engineer, Infrastructure</description>
+        <accepts>Site-Reliability.html</accepts>
+    </rule>
+    <rule id="19187cc1">
+        <description>Created after removal of "Code Reviews" from Software Engineer, Infrastructure</description>
+        <accepts>Code-Reviews.html</accepts>
+    </rule>
+    <rule id="6725a8bf">
+        <description>Created after removal of "Incident Response" from Software Engineer, Infrastructure</description>
+        <accepts>Incident-Response.html</accepts>
+    </rule>
 </rules>

@@ -1,19 +1,8 @@
-# Overview
+# Social Media Links
 
-Overview articles give background information and provide context to a particular subject.
-Their goal is to explain a concept, not to teach or give instructions.
-
-## What is product/service/concept
-
-Provide some background and context, explain choices and alternatives.
-
-## Glossary
-
-home page - https://acestus.com  
-github- https://github.com/acestus  
-linkedin - https://linkedin.com/in/acestus  
-blog- https://blog.acestus.com  
-x- https://x.com/acestus5  
-
-
-<video src="https://vimeo.com/1057742570/0484825ea5"/>
+<a rel="me" href="https://www.acestus.com">Home</a>  
+<a rel="me" href="https://www.acestus.com/resume">Azure Static Web App Resume</a>  
+<a rel="me" href="https://github.com/acestus">GitHub</a>  
+<a rel="me" href="https://www.linkedin.com/in/acestus">LinkedIn</a>  
+<a rel="me" href="https://blog.acestus.com/@acestus">Blog</a>  
+<a rel="me" href="https://social.linux.pizza/@acestus">Mastodon</a>

@@ -1,5 +1,6 @@
 # Resume
-##  Software Engineer, Infrastructure
+<a rel="me" href="https://resume.acestus.com">PDF Resume</a> 
+##  Software Engineer, Infrastructure 
 
 ### Profile
 I manage Azure environments with a Linux tech stack. I am a Software Engineer that specializes in Infrastructure with 5+ years experience in enterprise security software, IT automation, network security, and cloud services. Searching for an opportunity to safeguard critical functions, as a dedicated problem solver. I am passionate about functional programming and thinking outside the box.

@@ -11,4 +11,5 @@
     <toc-element topic="Cost-Optimization.md"/>
     <toc-element topic="Infrastructure-As-Code.md"/>
     <toc-element topic="Continous-Integration.md"/>
+    <toc-element topic="Continous-Deployment.md"/>
 </instance-profile>

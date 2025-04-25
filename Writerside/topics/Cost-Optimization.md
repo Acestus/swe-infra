@@ -1,4 +1,4 @@
-# Cost Optimization
+#Cost Optimization
 
 I can optimize costs by collecting data and setting up guardrails.  
 I use Azure Cost Management to analyze and visualize costs.  
